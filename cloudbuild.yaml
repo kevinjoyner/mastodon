@@ -1,2 +1,4 @@
 steps:
 - name: 'docker'
+images:
+- 'europe-north1-docker.pkg.dev/$PROJECT_ID/mastodon/mastodon:latest'
